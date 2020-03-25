@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+    color: black;
+    display: grid;
+    justify-content: center;
+  }
+  #sx {
+    border: whitesmoke solid 2px;
+    border-radius: 50px;
+    height: 200px;
+    width: 800px;
+    background-color: blue;
+  }
+  #sy {
+    border: whitesmoke solid 2px;
+    border-radius: 50px;
+    height: 200px;
+    width: 800px;
+    background-color: greenyellow;
+  }
+  #px {
+    border: whitesmoke solid 2px;
+    border-radius: 50px;
+    height: 200px;
+    width: 800px;
+    background-color: orange;
+  }
+  #py {
+    border: whitesmoke solid 2px;
+    border-radius: 50px;
+    height: 200px;
+    width: 800px;
+    background-color: rgb(220, 20, 153);
+  }
+  #cx{
+    border: whitesmoke solid 2px;
+    border-radius: 50px;
+    height: 200px;
+    width: 800px;
+    background-color: rgb(20, 197, 220);
+  }
+  #cy{
+    border: whitesmoke solid 2px;
+    border-radius: 50px;
+    height: 200px;
+    width: 800px;
+    background-color: rgb(220, 143, 20);
+  }
+  li {
+    display: grid;
+    justify-content: center;
+  }
+  #header {
+    display: grid;
+    justify-content: center;
+  }
+  #header2 {
+    display: grid;
+    justify-content: center;
+  }
+  .cool {
+    background-color: green;
+  }
